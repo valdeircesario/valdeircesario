@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Valdeir+Cesário&fontSize=35&fontcolor=fff&animation-twinklig&fontalgny=35"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Valdeir+Cesário+da+Silva;I'm+40+years+old;I+am+from+luziânia,+GO;I+AM+STUDYING+INFORMATION+SYSTEM+AT+THE+FEDERAL+INSTITUTE+OF+GOIAS;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 ### Olá! Eu Sou Valdeir Cesario 
 
 
@@ -22,9 +26,10 @@ Em Busca de Novos Conhecimentos e Aprocura de Aprimorar Mais e Mais Meu Desempen
 
 
 
-<p align='center'>
-  <a href="#"><img align="center" alt="VAL-Js" height="350" width="450" src="https://github-readme-stats.vercel.app/api?username=valdeircesario&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=valdeircesario&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="valdeir cesario github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdeircesario&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 
 
@@ -45,6 +50,12 @@ Em Busca de Novos Conhecimentos e Aprocura de Aprimorar Mais e Mais Meu Desempen
           
  
 </div>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{valdeircesario}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=footer&animation-twinklig&fontalgny=35"/>
   
   ##
  
