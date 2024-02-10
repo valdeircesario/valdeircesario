@@ -55,10 +55,7 @@ Em Busca de Novos Conhecimentos e Aprocura de Aprimorar Mais e Mais Meu Desempen
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{valdeircesario}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=footer&animation-twinklig&fontalgny=35"/>
-  
-  ##
- 
+##
 <div> 
  
   <a href="https://instagram.com/valdeircesario" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -66,3 +63,10 @@ Em Busca de Novos Conhecimentos e Aprocura de Aprimorar Mais e Mais Meu Desempen
   <a href="https://www.linkedin.com/in/valdeircesario2023" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=footer&animation-twinklig&fontalgny=35"/>
+  
+  ##
+  ![snake gif](https://github.com/valdeircesario/valdeircesario/blob/output/github-contribution-grid-snake.svg)
+ 
+
