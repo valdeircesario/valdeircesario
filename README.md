@@ -46,6 +46,9 @@ Em Busca de Novos Conhecimentos e Aprocura de Aprimorar Mais e Mais Meu Desempen
   <img  align="center" alt="VAL-intelij" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" >
   
   <img align="center" alt="VAL-vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" >
+  <img align="center" alt="Node.js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+
+ <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
           
           
  
