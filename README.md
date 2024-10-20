@@ -70,6 +70,14 @@ Em Busca de Novos Conhecimentos e Aprocura de Aprimorar Mais e Mais Meu Desempen
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=footer&animation-twinklig&fontalgny=35"/>
+
+##
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valdeircesario/valdeircesario/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valdeircesario/valdeircesario/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/valdeircesario/valdeircesario/output/github-contribution-grid-snake.svg">
+</picture>
   
   
  
