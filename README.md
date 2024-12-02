@@ -46,7 +46,7 @@ Em Busca de Novos Conhecimentos e Aprocura de Aprimorar Mais e Mais Meu Desempen
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
 
-## My Skill Set 👩‍💻
+##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some  My Skill Set 👩‍💻
 
 
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
