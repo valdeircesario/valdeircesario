@@ -11,15 +11,15 @@
 
 <img align="right" height="280px" alt="Coding GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
-Olá! Sou **Valdeir Cesário da Silva**, desenvolvedor apaixonado por tecnologia e inovação.
+Olá! Sou **Valdeir Cesário da Silva**, 🐞 QA Automation Engineer | Cypress • Selenium • CI/CD • API Testing 🐞.
 
 🎓 **Formação:** Sistemas de Informação - Instituto Federal de Goiás (IFG)  
 📍 **Localização:** Luziânia, Goiás  
-📚 **Semestre Atual:** 4°  
-🎂 **Idade:** 40 anos  
+📚 **Semestre Atual:** 7°  
+🎂 **Idade:** 42 anos  
 
 ### 🎯 Objetivos
-Estou em constante busca por conhecimento no mundo da programação, focando em desenvolvimento full-stack e sempre procurando aprimorar minhas habilidades técnicas para entregar soluções inovadoras.
+Estou em constante busca por conhecimento no mundo do desenvolvimentos, focando em **QA Automation Engineer, Qualidade de Software** e sempre procurando aprimorar minhas habilidades técnicas para entregar soluções inovadoras.
 
 <br clear="right"/>
 
