@@ -1,4 +1,12 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0088ff&height=150&section=header=fontSize=fff&animation=twinkling&fontAlignY=35"/>
+</div>
+
+<div align="center">
+
+
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Valdeir%20Cesário&fontSize=70&color=0:667eea,100:764ba2&stroke=ffffff&strokeWidth=2&animation=fadeIn&fontColor=ffffff&desc=Quality%20Assurance%20Engineer%20%7C%20Bug%20Hunter%20%7C%20Automation%20Specialist&descSize=18&descAlignY=62" width="100%"/>
 </div>
 
