@@ -1,13 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0088ff&height=150&section=header=fontSize=fff&animation=twinkling&fontAlignY=35"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0088ff&height=150&section=header&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
 
 <div align="center">
-
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Valdeir%20Cesário&fontSize=70&color=0:667eea,100:764ba2&stroke=ffffff&strokeWidth=2&animation=fadeIn&fontColor=ffffff&desc=Quality%20Assurance%20Engineer%20%7C%20Bug%20Hunter%20%7C%20Automation%20Specialist&descSize=18&descAlignY=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Valdeir%20Ces%C3%A1rio&fontSize=70&color=0:667eea,100:764ba2&stroke=ffffff&strokeWidth=2&animation=fadeIn&fontColor=ffffff&desc=Quality%20Assurance%20Engineer%20%7C%20Bug%20Hunter%20%7C%20Automation%20Specialist&descSize=18&descAlignY=62" width="100%"/>
 </div>
 
 <div align="center">
@@ -20,11 +16,13 @@
   <img src="https://img.shields.io/badge/Bug_Hunter-f093fb?style=for-the-badge&logo=bugcrowd&logoColor=white" />
 </div>
 
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎭 Quem Sou Eu?
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380px"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340px"/>
 
 ```typescript
 const valdeirCesario = {
@@ -53,9 +51,9 @@ const valdeirCesario = {
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🎯 Missão Profissional
+## 🎯 Missão Profissional
 
 Especializado em **Quality Assurance** e **Quality Control**, atuo na criação de estratégias robustas de testes que garantem a confiabilidade e performance de aplicações. Meu foco está em automatizar processos, reduzir tempo de entrega e elevar os padrões de qualidade através de:
 
@@ -65,16 +63,12 @@ Especializado em **Quality Assurance** e **Quality Control**, atuo na criação 
 - 🚀 **Implementação de pipelines** CI/CD eficientes
 - 🐛 **Bug Tracking** e gestão de qualidade de software
 
-<br clear="right"/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧪 Arsenal de Ferramentas QA/QC
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" alt="Testing Tools">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" alt="Testing Tools"/>
   <h3>🔬 Ferramentas de Teste e Automação</h3>
 </div>
 
@@ -82,101 +76,82 @@ Especializado em **Quality Assurance** e **Quality Control**, atuo na criação 
   <tr>
     <td align="center" width="50%">
       <h3>🤖 Automação de Testes</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-        <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" />
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-        <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
-        <img src="https://img.shields.io/badge/TIR_TOTVS-0033A0?style=for-the-badge&logo=totvs&logoColor=white" />
-      </div>
+      <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+      <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" />
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+      <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
+      <img src="https://img.shields.io/badge/TIR_TOTVS-0033A0?style=for-the-badge&logoColor=white" />
     </td>
     <td align="center" width="50%">
       <h3>🔍 Testes de API & Performance</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-        <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" />
-        <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" />
-        <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_Assured-5BA745?style=for-the-badge&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/SoapUI-FCDC00?style=for-the-badge&logo=soap&logoColor=black" />
-      </div>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" />
+      <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" />
+      <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_Assured-5BA745?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/SoapUI-FCDC00?style=for-the-badge&logoColor=black" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <h3>💻 Linguagens de Programação</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-      </div>
+      <img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     </td>
     <td align="center" width="50%">
       <h3>🛠️ DevOps & CI/CD</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=docker,git,github,jenkins&theme=dark" />
-        <br><br>
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-        <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
-      </div>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,jenkins&theme=dark" />
+      <br><br>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <h3>📊 Gestão de Testes & Qualidade</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-        <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=testrail&logoColor=white" />
-        <img src="https://img.shields.io/badge/Azure_Test_Plans-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
-        <img src="https://img.shields.io/badge/Allure-FF4785?style=for-the-badge&logo=allure&logoColor=white" />
-        <img src="https://img.shields.io/badge/Xray-4BADE8?style=for-the-badge&logo=xray&logoColor=white" />
-      </div>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+      <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure_Test_Plans-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+      <img src="https://img.shields.io/badge/Allure-FF4785?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Xray-4BADE8?style=for-the-badge&logoColor=white" />
     </td>
     <td align="center" width="50%">
       <h3>💾 Bancos de Dados</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
-        <br><br>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      </div>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+      <br><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 Métricas de Qualidade & Atividade
 
 <div align="center">
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="150px"/> 
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="150px"/>
 </div>
 
 <div align="center">
- 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valdeircesario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdeircesario&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valdeircesario&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=valdeircesario&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&radius=10" width="98%" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-  ### 📈 Atividade & Contribuições
-
-![Profile Views](https://komarev.com/ghpvc/?username=valdeircesario&color=00d9ff&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/valdeircesario?style=for-the-badge&color=00d9ff)
-![Stars](https://img.shields.io/github/stars/valdeircesario?style=for-the-badge&color=00d9ff)
-
-</div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎯 Competências Técnicas em QA/QC
 
@@ -184,7 +159,7 @@ Especializado em **Quality Assurance** e **Quality Control**, atuo na criação 
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="200" />
 </div>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
       <h4>✅ Testes Funcionais</h4>
@@ -211,9 +186,7 @@ Especializado em **Quality Assurance** e **Quality Control**, atuo na criação 
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌱 Desenvolvimento Contínuo
 
@@ -223,58 +196,62 @@ Especializado em **Quality Assurance** e **Quality Control**, atuo na criação 
 
 Atualmente, estou expandindo meu conhecimento em:
 
-- 🤖 **IA em Testes** - Machine Learning aplicado a Quality Assurance
-- ☁️ **Cloud Testing** - Testes em ambientes AWS, Azure e GCP
-- 📱 **Mobile Testing** - Appium, Espresso e XCUITest
-- 🔒 **Security Testing** - OWASP, Penetration Testing
-- 🧬 **Test Data Management** - Estratégias de dados sintéticos
-- 📈 **Shift-Left Testing** - Testes desde as fases iniciais do desenvolvimento
-- 🎭 **BDD/TDD** - Behavior Driven Development e Test Driven Development
+- 🤖 **IA em Testes** — Machine Learning aplicado a Quality Assurance
+- ☁️ **Cloud Testing** — Testes em ambientes AWS, Azure e GCP
+- 📱 **Mobile Testing** — Appium, Espresso e XCUITest
+- 🔒 **Security Testing** — OWASP, Penetration Testing
+- 🧬 **Test Data Management** — Estratégias de dados sintéticos
+- 📈 **Shift-Left Testing** — Testes desde as fases iniciais do desenvolvimento
+- 🎭 **BDD/TDD** — Behavior Driven Development e Test Driven Development
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 Metodologias e Práticas
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[Quality Assurance] --> B[Planejamento]
-    A --> C[Automação]
-    A --> D[Execução]
-    A --> E[Análise]
-    B --> F[Estratégia de Testes]
-    C --> G[Scripts Automatizados]
-    D --> H[CI/CD Pipeline]
-    E --> I[Relatórios de Qualidade]
-    
-    style A fill:#00d9ff,stroke:#fff,stroke-width:2px,color:#000
-    style B fill:#0088ff,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#0088ff,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#0088ff,stroke:#fff,stroke-width:2px,color:#fff
-    style E fill:#0088ff,stroke:#fff,stroke-width:2px,color:#fff
-```
+<table>
+  <tr>
+    <td colspan="4" align="center">
+      <img src="https://img.shields.io/badge/⚙️%20QUALITY%20ASSURANCE-00d9ff?style=for-the-badge&logoColor=000000"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📋%20Planejamento-0088ff?style=for-the-badge&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/↳%20Estratégia%20de%20Testes-667eea?style=flat-square&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🤖%20Automação-0088ff?style=for-the-badge&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/↳%20Scripts%20Automatizados-667eea?style=flat-square&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/▶️%20Execução-0088ff?style=for-the-badge&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/↳%20CI%2FCD%20Pipeline-667eea?style=flat-square&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📊%20Análise-0088ff?style=for-the-badge&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/↳%20Relatórios%20de%20Qualidade-667eea?style=flat-square&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <div align="center">
-  
-  **Metodologias Aplicadas:**
-  
-  `Agile/Scrum` • `Kanban` • `DevOps` • `Shift-Left Testing` • `Risk-Based Testing` • `Continuous Testing`
-  
+
+**Metodologias Aplicadas:**
+
+`Agile/Scrum` • `Kanban` • `DevOps` • `Shift-Left Testing` • `Risk-Based Testing` • `Continuous Testing`
+
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📫 Conecte-se Comigo
 
 <div align="center">
-  
+
   <a href="mailto:contatovaldeircesario11@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -284,16 +261,14 @@ graph LR
   <a href="https://github.com/valdeircesario">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  
+
   <br><br>
-  
+
   <img src="https://img.shields.io/badge/Disponível_para_Oportunidades-00d9ff?style=for-the-badge&logo=handshake&logoColor=white" />
-  
+
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 Contribuições & Atividade
 
@@ -305,36 +280,32 @@ graph LR
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌍 Informações Adicionais
 
 <div align="center">
-  
+
   ![Profile Views](https://komarev.com/ghpvc/?username=valdeircesario&color=00d9ff&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
   ![Last Updated](https://img.shields.io/github/last-commit/valdeircesario/valdeircesario?label=ÚLTIMA+ATUALIZAÇÃO&style=for-the-badge&color=00d9ff&labelColor=1c1c1c)
   ![Time Zone](https://img.shields.io/badge/FUSO_HORÁRIO-GMT--3_(Brasília)-00d9ff?style=for-the-badge&labelColor=1c1c1c)
-  
+
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💬 Citação Favorita
+## 💬 Citações Favoritas
 
 <div align="center">
-  
-  > *"A qualidade nunca é um acidente; ela é sempre o resultado de um esforço inteligente."*  
-  > **— John Ruskin**
-  
-  <br>
-  
-  > *"Testes não provam a ausência de bugs, apenas revelam sua presença."*  
-  > **— Edsger W. Dijkstra**
-  
+
+> *"A qualidade nunca é um acidente; ela é sempre o resultado de um esforço inteligente."*  
+> **— John Ruskin**
+
+<br>
+
+> *"Testes não provam a ausência de bugs, apenas revelam sua presença."*  
+> **— Edsger W. Dijkstra**
+
 </div>
 
 <div align="center">
