@@ -1,19 +1,19 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0088ff&height=150&section=header&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=header&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Valdeir%20Ces%C3%A1rio&fontSize=70&color=0:667eea,100:764ba2&stroke=ffffff&strokeWidth=2&animation=fadeIn&fontColor=ffffff&desc=Quality%20Assurance%20Engineer%20%7C%20Bug%20Hunter%20%7C%20Automation%20Specialist&descSize=18&descAlignY=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Valdeir%20Ces%C3%A1rio&fontSize=70&color=0:667eea,100:764ba2&stroke=ffffff&strokeWidth=2&animation=fadeIn&fontColor=ffffff&desc=Analista%20de%20Testes%20%7C%20QA%20Automation%20Engineer&descSize=18&descAlignY=62" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=900&height=100&lines=🔍+Transformando+Código+em+Confiança;💎+Cada+Bug+é+uma+Oportunidade;🚀+Automação+%2B+Qualidade+%3D+Excelência" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%F0%9F%94%8D+Transformando+C%C3%B3digo+em+Confian%C3%A7a;%F0%9F%92%8E+Cada+Bug+%C3%A9+uma+Oportunidade;%F0%9F%9A%80+Automa%C3%A7%C3%A3o+%2B+Qualidade+%3D+Excel%C3%AAncia" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/QA_Engineer-667eea?style=for-the-badge&logo=checkmarx&logoColor=white" />
   <img src="https://img.shields.io/badge/Test_Automation-764ba2?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bug_Hunter-f093fb?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+  <img src="https://img.shields.io/badge/CTFL_ISTQB-f093fb?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </div>
 
 <br>
@@ -26,24 +26,25 @@
 
 ```typescript
 const valdeirCesario = {
-  nome: "Valdeir Cesário da Silva",
-  cargo: "QA Automation Engineer",
-  idade: 42,
+  nome: "Valdeir Cesário Silva",
+  cargo: "Analista de Testes / QA Automation Engineer",
   localização: "Luziânia, GO 🇧🇷",
-  
+
   educação: {
     curso: "Sistemas de Informação",
-    instituição: "IFG",
-    semestre: "7°"
+    instituição: "IFG - Campus Luziânia",
+    conclusãoPrevista: "12/2026"
   },
-  
+
+  certificações: ["ISTQB CTFL"],
+
   especialidades: [
-    "Automação End-to-End",
-    "API Testing & CI/CD",
-    "Quality Strategies",
-    "Bug Analysis"
+    "Qualidade Funcional (ERP Protheus / TOTVS)",
+    "Automação End-to-End (Cypress, TIR, Robot Framework)",
+    "Testes de API & Integração",
+    "Gestão de Testes e Defeitos"
   ],
-  
+
   filosofia: "Qualidade é um hábito!",
   status: "🟢 Disponível"
 };
@@ -55,13 +56,13 @@ const valdeirCesario = {
 
 ## 🎯 Missão Profissional
 
-Especializado em **Quality Assurance** e **Quality Control**, atuo na criação de estratégias robustas de testes que garantem a confiabilidade e performance de aplicações. Meu foco está em automatizar processos, reduzir tempo de entrega e elevar os padrões de qualidade através de:
+Atuo como **Analista de Testes** com sólida base técnica em **qualidade funcional** voltada ao ecossistema **TOTVS Protheus**, atuando hoje na FHE POUPEX (setor financeiro/previdenciário). Meu foco está em automatizar processos, reduzir tempo de entrega e elevar os padrões de qualidade através de:
 
-- 🔄 **Automação End-to-End** com frameworks modernos
-- 🧪 **Testes de API** e integração contínua
-- 📊 **Análise de Métricas** de qualidade e cobertura
-- 🚀 **Implementação de pipelines** CI/CD eficientes
-- 🐛 **Bug Tracking** e gestão de qualidade de software
+- 🔄 **Automação End-to-End** com Cypress e TIR Test Interface Robot
+- 🧪 **Testes de API** e validação de contratos/schemas com Postman
+- 📋 **Cenários de Teste** funcionais e regressivos
+- 🚀 **Integração de automação** ao pipeline CI/CD
+- 🐛 **Gestão de Defeitos** no Jira, do report à validação da correção
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -69,7 +70,7 @@ Especializado em **Quality Assurance** e **Quality Control**, atuo na criação 
 
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" alt="Testing Tools"/>
-  <h3>🔬 Ferramentas de Teste e Automação</h3>
+  <h3>🔬 Ferramentas que uso no dia a dia</h3>
 </div>
 
 <table align="center" width="100%">
@@ -78,25 +79,20 @@ Especializado em **Quality Assurance** e **Quality Control**, atuo na criação 
       <h3>🤖 Automação de Testes</h3>
       <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
       <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-      <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" />
-      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-      <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
+      <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" />
       <img src="https://img.shields.io/badge/TIR_TOTVS-0033A0?style=for-the-badge&logoColor=white" />
     </td>
     <td align="center" width="50%">
-      <h3>🔍 Testes de API & Performance</h3>
+      <h3>🔍 Testes de API</h3>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" />
-      <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" />
-      <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
       <img src="https://img.shields.io/badge/REST_Assured-5BA745?style=for-the-badge&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/SoapUI-FCDC00?style=for-the-badge&logoColor=black" />
+      <img src="https://img.shields.io/badge/JSON_Schema-000000?style=for-the-badge&logo=json&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <h3>💻 Linguagens de Programação</h3>
-      <img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" />
       <br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -104,28 +100,24 @@ Especializado em **Quality Assurance** e **Quality Control**, atuo na criação 
     </td>
     <td align="center" width="50%">
       <h3>🛠️ DevOps & CI/CD</h3>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,jenkins&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" />
       <br><br>
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git_Flow-F05032?style=for-the-badge&logo=git&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <h3>📊 Gestão de Testes & Qualidade</h3>
       <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-      <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure_Test_Plans-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
-      <img src="https://img.shields.io/badge/Allure-FF4785?style=for-the-badge&logoColor=white" />
-      <img src="https://img.shields.io/badge/Xray-4BADE8?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
     </td>
     <td align="center" width="50%">
       <h3>💾 Bancos de Dados</h3>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
       <br><br>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -168,19 +160,17 @@ Especializado em **Quality Assurance** e **Quality Control**, atuo na criação 
         <li>Testes de Integração</li>
         <li>Testes de Sistema</li>
         <li>Testes de Regressão</li>
-        <li>Testes de Aceitação (UAT)</li>
         <li>Testes Exploratórios</li>
       </ul>
     </td>
     <td align="center" width="50%">
-      <h4>⚡ Testes Não-Funcionais</h4>
+      <h4>⚡ Práticas & Metodologias</h4>
       <ul align="left">
-        <li>Testes de Performance</li>
-        <li>Testes de Carga e Stress</li>
-        <li>Testes de Segurança</li>
-        <li>Testes de Usabilidade</li>
-        <li>Testes de Compatibilidade</li>
-        <li>Testes de API/Web Services</li>
+        <li>Page Object Model (POM)</li>
+        <li>Shift-Left Testing</li>
+        <li>Scrum / Kanban</li>
+        <li>Agile Testing</li>
+        <li>SDLC</li>
       </ul>
     </td>
   </tr>
@@ -188,21 +178,20 @@ Especializado em **Quality Assurance** e **Quality Control**, atuo na criação 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌱 Desenvolvimento Contínuo
+## 🌱 Em Estudo & Exploração
 
 <div align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" />
 </div>
 
-Atualmente, estou expandindo meu conhecimento em:
+Ferramentas e práticas que estou explorando para ampliar minha atuação em QA — ainda não aplicadas profissionalmente, mas em estudo ativo:
 
-- 🤖 **IA em Testes** — Machine Learning aplicado a Quality Assurance
-- ☁️ **Cloud Testing** — Testes em ambientes AWS, Azure e GCP
-- 📱 **Mobile Testing** — Appium, Espresso e XCUITest
-- 🔒 **Security Testing** — OWASP, Penetration Testing
-- 🧬 **Test Data Management** — Estratégias de dados sintéticos
-- 📈 **Shift-Left Testing** — Testes desde as fases iniciais do desenvolvimento
-- 🎭 **BDD/TDD** — Behavior Driven Development e Test Driven Development
+- 🎭 **Playwright & Puppeteer** — frameworks modernos de automação
+- ⚡ **JMeter & K6** — testes de performance e carga
+- 📋 **TestRail, Allure & Xray** — gestão de testes e relatórios
+- 📱 **Appium** — testes mobile
+- 🔒 **OWASP** — security testing
+- 🎬 **BDD/TDD** — Behavior & Test Driven Development
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -219,7 +208,7 @@ Atualmente, estou expandindo meu conhecimento em:
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/📋%20Planejamento-0088ff?style=for-the-badge&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/↳%20Estratégia%20de%20Testes-667eea?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/↳%20Cen%C3%A1rios%20de%20Teste-667eea?style=flat-square&logoColor=white"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/🤖%20Automação-0088ff?style=for-the-badge&logoColor=white"/><br/>
@@ -231,7 +220,7 @@ Atualmente, estou expandindo meu conhecimento em:
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/📊%20Análise-0088ff?style=for-the-badge&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/↳%20Relatórios%20de%20Qualidade-667eea?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/↳%20Gest%C3%A3o%20de%20Defeitos-667eea?style=flat-square&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -242,8 +231,33 @@ Atualmente, estou expandindo meu conhecimento em:
 
 **Metodologias Aplicadas:**
 
-`Agile/Scrum` • `Kanban` • `DevOps` • `Shift-Left Testing` • `Risk-Based Testing` • `Continuous Testing`
+`Agile/Scrum` • `Kanban` • `Shift-Left Testing` • `Risk-Based Testing` • `Continuous Testing`
 
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💻 Projetos em Destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 🏥 **MedTriagem** | Sistema full-stack de triagem médica, testes E2E em Cypress, 85%+ de cobertura em features críticas | React, Node.js, Prisma, PostgreSQL |
+| ⚙️ **Automação ERP Protheus (TOTVS)** | Framework de automação com TIR Test Interface Robot para módulos críticos do ERP | TIR, Selenium, Python |
+| 🐾 **Sistema PetsClinic** | Análise de requisitos e documentação de qualidade end-to-end com rastreabilidade completa | Cypress, Documentação Técnica |
+| 🛍️ **E-commerce Azalleia** | Testes cross-browser, responsividade e validação de acessibilidade (WCAG 2.1) | React, Cypress |
+| 🔢 **AppComparaTudo** | Testes unitários e de integração com 80%+ de cobertura | Java, JUnit, PostgreSQL |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📈 Métricas de Impacto
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Cobertura_de_Automação-70%25+-00d9ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bugs_Críticos_Identificados-50+-00d9ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cenários_de_Teste-100+-00d9ff?style=for-the-badge" />
+  <br>
+  <img src="https://img.shields.io/badge/Redução_Tempo_Regressão-40%25-00d9ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repositórios_GitHub-20+-00d9ff?style=for-the-badge" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -252,7 +266,7 @@ Atualmente, estou expandindo meu conhecimento em:
 
 <div align="center">
 
-  <a href="mailto:contatovaldeircesario11@hotmail.com">
+  <a href="mailto:valdeircesario11@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/valdeircesarioQA">
@@ -279,6 +293,7 @@ Atualmente, estou expandindo meu conhecimento em:
     <img alt="Snake animation" src="https://raw.githubusercontent.com/valdeircesario/valdeircesario/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
