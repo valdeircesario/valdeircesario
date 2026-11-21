@@ -56,7 +56,7 @@ const valdeirCesario = {
 
 ## 🎯 Missão Profissional
 
-Atuo como **Analista de Testes** com sólida base técnica em **qualidade funcional** voltada ao ecossistema **TOTVS Protheus**, atuando hoje na FHE POUPEX (setor financeiro/previdenciário). Meu foco está em automatizar processos, reduzir tempo de entrega e elevar os padrões de qualidade através de:
+Atuo como **Analista de Testes** com sólida base técnica em **qualidade funcional** voltada para todos ecossistema. Meu foco está em automatizar processos, reduzir tempo de entrega e elevar os padrões de qualidade através de:
 
 - 🔄 **Automação End-to-End** com Cypress e TIR Test Interface Robot
 - 🧪 **Testes de API** e validação de contratos/schemas com Postman
